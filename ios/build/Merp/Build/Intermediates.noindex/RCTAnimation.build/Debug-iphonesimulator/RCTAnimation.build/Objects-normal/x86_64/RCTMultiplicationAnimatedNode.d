@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/TTN/mback/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.m \
+  /Users/TTN/mback/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/TTN/mback/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/TTN/mback/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
